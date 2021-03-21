@@ -1,5 +1,13 @@
 # Hangman
 
-This is a simple terminal-based hangman game.
+Simple terminal hangman game.  
+_Completed on 14 September 2020_
 
-Game is a project that was a part of JetBrains Academy Python Developer course.
+The project is part of Python Developer track on JetBrains Academy (Hyperskill).  
+Link - [hyperskill/hangman](https://hyperskill.org/projects/69?track=2)
+
+### About
+Hangman is a popular yet grim puzzle game. A cruel computer hides a word from you, which you try to guess letter by letter. If you fail, you'll be “hanged”. If you win, you'll survive. You’ve probably played the game at least once or twice. Now you can actually create this game yourself!
+
+### Learning outcomes
+With functions, loops, lists and other variables, this is a great project for Python basics. As a cherry on top, it even includes a random module. Don’t be intimidated by the number of stages; they ensure that your dive into Python is safe and smooth.
